@@ -32,30 +32,34 @@ I prefer **deep understanding over copy-paste solutions**.
 
 ---
 
-🧠 Competitive Programming
-<p align="center"> <a href="https://codeforces.com/profile/ssuper"> <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white"> </a> <a href="https://leetcode.com/u/superss2104"> <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"> </a> </p>
+## 🧠 Competitive Programming
 
-Handles
+<p align="center">
 
-Codeforces: ssuper
+<a href="https://codeforces.com/profile/ssuper">
+<img src="https://img.shields.io/badge/Codeforces-ssuper-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 
-LeetCode: ssuper
+<a href="https://leetcode.com/u/superss2104">
+<img src="https://img.shields.io/badge/LeetCode-superss2104-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-Currently focused on improving:
+</p>
 
-Binary Search patterns
+<p align="center">
 
-Greedy algorithms
+💻 **Primary Language:** C++  
+🧩 **Focus:** Algorithms • Data Structures • Optimization
 
-Graph algorithms
+</p>
 
-Two pointers / sliding window
+### Currently Practicing
 
-Efficient STL usage
-
-Primary language: C++
-
----
+- Binary Search patterns  
+- Greedy algorithms  
+- Graph algorithms  
+- Two pointers / Sliding Window  
+- Efficient STL usage
 
 ---
 
@@ -85,14 +89,4 @@ Primary language: C++
 
 # 📫 Connect With Me
 
-<p align="center">
-
-<a href="www.linkedin.com/in/suhail-sahib">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:sahib.suhail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/suhail-sahib"> <img src="https://img.shields.io/badge/LinkedIn-Suhail%20Sahib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:sahib.suhail@gmail.com"> <img src="https://img.shields.io/badge/Email-sahib.suhail%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/superss2104"> <img src="https://img.shields.io/badge/GitHub-superss2104-181717?style=for-the-badge&logo=github"/> </a> </p>
