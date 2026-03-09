@@ -87,11 +87,11 @@ Primary language: C++
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/suhail-sahib">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sahib.suhail@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
