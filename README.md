@@ -14,7 +14,7 @@
 # 🧠 About Me
 
 - 🎓 Computer Science Student  
-- ⚡ Focused on **Competitive Programming & Algorithmic Problem Solving**  
+- ⚡ Focused on **DSA & Algorithmic Problem Solving**  
 
 - 📚 Constantly improving **data structures, STL mastery, and complexity reasoning**
 
@@ -29,6 +29,57 @@ I prefer **deep understanding over copy-paste solutions**.
 - Binary Search / Greedy / Graph algorithms  
 - Efficient STL usage  
 - Writing clean and optimized implementations  
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td width="25%">
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</td>
+
+<td width="25%">
+
+### Competitive Programming
+
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+</td>
+
+<td width="25%">
+
+### Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</td>
+
+<td width="25%">
+
+### AI / CV
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -60,14 +111,6 @@ I prefer **deep understanding over copy-paste solutions**.
 - Graph algorithms  
 - Two pointers / Sliding Window  
 - Efficient STL usage
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,java,git,linux,vscode"/>
-</p>
 
 ---
 
