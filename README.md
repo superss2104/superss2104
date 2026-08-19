@@ -30,19 +30,21 @@ I enjoy building projects that combine strong engineering fundamentals with prac
 
 # 🚀 Featured Projects
 
-## 🎮 CSpotlight (Formerly GamePulse)
+## 🎮 CSpotlight
 
 **Automated Counter-Strike 2 Highlight Detection System**
 
-**Tech:** Python • OpenCV • NumPy
+**Tech:** Python • OpenCV • NumPy • FFmpeg • FastAPI • Next.js • TypeScript • Docker • Oracle Cloud
 
 ### Highlights
 
-* Multi-signal gameplay highlight detection
-* Motion intensity analysis
-* Audio event detection
-* Sliding-window temporal aggregation
-* Automatic clip generation pipeline
+* 19-module computer-vision pipeline fusing motion, audio, and killfeed signals for automatic highlight detection
+* Sliding-window multikill classifier with debounce-based noise suppression
+* Merge-intervals clip consolidation — processes a 5-minute 1080p/60fps recording in under 6 minutes on a single CPU
+* Full-stack Next.js/FastAPI web app deployed on Oracle Cloud (Docker) + Vercel — zero-cost cloud video processing
+* 62-unit PyTest suite with 100% pass rate covering all core detection and scoring stages
+
+🔗 [GitHub](https://github.com/superss2104/CSpotlight) • [Live Demo](https://cspotlight.vercel.app)
 
 ---
 
@@ -54,27 +56,13 @@ I enjoy building projects that combine strong engineering fundamentals with prac
 
 ### Highlights
 
-* 5-stage pipelined processor simulation
-* Cache hierarchy implementation
-* Virtual memory subsystem
-* Branch prediction and forwarding
-* Performance analytics engine
+* Cycle-accurate 5-stage pipelined RISC-V simulator across 42 Java source files
+* Configurable 3-level cache hierarchy (L1I/L1D/L2) with LRU/FIFO replacement at cache, TLB, and page-table levels
+* Virtual memory subsystem with 16-entry fully-associative DTLB, page-fault handling, and swap-space persistence
+* BTFNT branch prediction with 2-cycle flush; IPC characterized across 10 trace workloads (~715K instructions each)
+* Trace-driven analytics engine reporting IPC, CPI, cache hit/miss rates, branch mispredictions, and TLB statistics
 
----
-
-## 🌱 Wellness Universe
-
-**AI-Powered Wellness Platform**
-
-**Tech:** Next.js • TypeScript • Firebase • Gemini API
-
-### Highlights
-
-* AI-assisted wellness guidance
-* Real-time community interactions
-* Recommendation systems
-* Automated moderation workflows
-* Analytics and progress tracking
+🔗 [GitHub](https://github.com/superss2104/Processor-Simulator-COA) • [Live Demo](https://processor-simulator-coa.vercel.app)
 
 ---
 
@@ -86,10 +74,12 @@ I enjoy building projects that combine strong engineering fundamentals with prac
 
 ### Highlights
 
-* Prompt and response tracking
-* Development session analytics
-* AI dependency analysis
-* Multi-provider LLM integration
+* 11-module CLI tool tracking AI interactions across Gemini, OpenAI, Groq, and any OpenAI-compatible endpoint
+* Hybrid relevance scoring engine combining Ratcliff/Obershelp pattern matching and tokenized keyword overlap
+* Guard-mode enforcement layer that hard-blocks off-topic prompts before they reach the LLM API
+* Heuristic analytics engine detecting 4 developer struggle patterns with terminal dashboard reporting
+
+🔗 [GitHub](https://github.com/superss2104/AIDevTracker)
 
 ---
 
@@ -101,13 +91,15 @@ I enjoy building projects that combine strong engineering fundamentals with prac
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </td>
 
@@ -115,33 +107,33 @@ I enjoy building projects that combine strong engineering fundamentals with prac
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 
 </td>
 
 <td valign="top" width="20%">
 
-### AI / CV
+### Backend & AI
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google-gemini\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </td>
 
 <td valign="top" width="20%">
 
-### Backend & DB
+### Infra & DB
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </td>
 
@@ -149,11 +141,13 @@ I enjoy building projects that combine strong engineering fundamentals with prac
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 </td>
 </tr>
